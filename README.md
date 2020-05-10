@@ -68,7 +68,7 @@ Cats possess other features of their wild relatives in being basically carnivoro
 The European wildcat is a solitary, nocturnal animal that preys on birds and small mammals. It breeds once yearly (in spring) in continental Europe and twice (sometimes three times) yearly in Scotland. A litter consists of three to six kittens; the gestation period is 68 days. The wildcat interbreeds with the domestic cat. Certain authorities believe that the purity of the Scottish wildcat (one of the several races) is being threatened by interbreeding.The subspecies known as the African wildcat (Felis silvestris lybica), native to northern Africa, is the putative ancestor of the domestic cat. The Asian wildcat (Felis silvestris ornata) ranges east of the Caspian Sea into China.</p4>
 </div2>
 <div1>
-<h4 style=color:Blue;>Florida Panther</h4>
+<h4 style="color:Blue;">Florida Panther</h4>
 <img src="panther-member-Florida-population-hardwood-forests-cougar.jpg" width="20%">
 </div1>
 <div2>
